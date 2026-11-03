@@ -1,6 +1,4 @@
 package com.quizApplication;
-
-
 public interface Credentials {
 
     public static final String url =
